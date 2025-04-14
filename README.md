@@ -1,6 +1,6 @@
 # Bayesian Optimization Case Study
 
-This repository provides a comprehensive case study on Bayesian Optimization, illustrating its application in parameter tuning and decision-making tasks. The project is designed to serve as both an educational resource and a portfolio piece that demonstrates advanced optimization techniques.
+This repository provides a comprehensive case study on Bayesian Optimization, illustrating its application in parameter tuning and decision-making tasks. 
 
 ## Table of Contents
 - [Overview](#overview)
